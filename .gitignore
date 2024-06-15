@@ -1,0 +1,4 @@
+Cargo.lock
+target/
+./portfolio-old-web-backend
+backend-config.toml
