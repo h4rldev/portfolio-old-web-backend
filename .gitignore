@@ -1,4 +1,4 @@
 Cargo.lock
 target/
-./portfolio-old-web-backend
+portfolio-old-web-backend
 backend-config.toml
